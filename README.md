@@ -1,4 +1,12 @@
-# Execution Steps:
+# TopoMap
+
+Cosine similarity-based data dimentionality reduction algorithm for improving computational complexity and space efficiency of machine learning models.
+
+## Report
+
+Please follow this [paper](https://github.com/devarshptl/TopoMap/blob/main/final_report/build/report.pdf) for details.
+
+## Execution Steps:
 
 The `original.ipynb` file is the main tool. Run this file in jupyter notebook to see the results.
 
